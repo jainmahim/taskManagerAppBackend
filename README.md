@@ -35,16 +35,8 @@ npm start
 
 ## Feature
 1. show all the task available
-![image](https://user-images.githubusercontent.com/75028176/193755765-4d3b33d7-d7e2-43f9-ab74-83d18e3b4050.png)
-
 2. Add a new task
-![image](https://user-images.githubusercontent.com/75028176/193756416-b374e6fa-6d17-49f1-b259-7f04658124c3.png)
-
 3. update a task
-![image](https://user-images.githubusercontent.com/75028176/193756517-da859be8-c4b8-4ea5-be25-4b54216aca7c.png)
-
 4. show task according to filter
-![image](https://user-images.githubusercontent.com/75028176/193756595-9f1f6765-4140-42e6-a123-f3ca1740e9d7.png)
-
 5. sort according to priority of task
 6. delete any task
